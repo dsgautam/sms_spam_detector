@@ -9,7 +9,7 @@ The data for this exercise is provided and stored in the resources folder: "SMSS
 # Solution: 
 The solution is included in the github directory "https://github.com/dsgautam/sms_spam_detector"
 
-The solution was developed using Jupyter Notebook.
+The solution was developed using Jupyter Notebook , but can be used in Google Colab as well.
 
 The steps taken are broadly defined here:
 
@@ -42,3 +42,7 @@ The steps taken are broadly defined here:
 
 # Results: 
 After executing the Gradio application, the testings results correctly predicted whether the input text is a "spam" or "not spam" 
+
+Live URL generated using Google Colab is https://3bc20353542b211f2d.gradio.live/
+
+This share link expires in 72 hours.
